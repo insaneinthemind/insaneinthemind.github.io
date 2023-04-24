@@ -1,0 +1,39 @@
+/* CSS Document */
+
+body{
+	background-color: #6b6f30;
+}
+	h1{
+		text-transfrom: uppercase;
+		text-align: center;
+		background-color:yellow;
+		color: darkred;
+		font-family: arial;
+	}
+
+ul li {
+display:inline;
+margin-left:15px;
+}
+a{text-decoration: none;font-width: font-family:200 font size 32px;}
+
+	a:hover{color:white;}
+
+h2{         
+
+font-size:35px;
+	
+	text-algin: center;
+	background-color:cornsilk;
+	color: darkblue;
+	font-family: arial; 
+	
+	h2{text-decoration: none;font-width: font-family:250 font size 40px}
+	
+		text-align: center;
+		background-color: antiquewhite;
+		color:darkgreen;
+		font-family: serif;
+		
+	}
+		
