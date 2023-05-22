@@ -10,7 +10,12 @@ body{
 		color: darkred;
 		font-family: arial;
 	}
-
+background-color:red;
+div{
+	background-color:white;
+}
+p {
+	background-color blue
 ul li {
 display:inline;
 margin-left:15px;
