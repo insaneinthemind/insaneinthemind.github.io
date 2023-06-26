@@ -3,41 +3,37 @@
 body{
 	background-color: #6b6f30;
 }
-	h1{
-		text-transfrom: uppercase;
+
+ul li {
+	display: inline;
+	margin-left: 50px;
+	display:contents;
+	
+}
+		
+a {
+	padding: 40px 20px;
+	text-decoration: none;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 20px;
+	color:black
+}
+
+h1{	text-transfrom: uppercase;
 		text-align: center;
 		background-color:blue;
 		color: darkred;
 		font-family: arial;
 	}
-background-color:red;
+
 div{
 	background-color:white;
 }
-p {
-	background-color blue
-ul li {
-display:inline;margin-left:30px;
-}
-a{text-decoration: none;font-width: font-family:200 font size 32px;}
 
-	a:hover{color:white;}
+p {background-color blue}
 
-h2{         
+h2
+{text-decoration: none;font-width: font-family:250 font size 40px}
+	
 
-font-size:35px;
-	
-	text-algin: center;
-	background-color:cornsilk;
-	color: darkblue;
-	font-family: arial; 
-	
-	h2{text-decoration: none;font-width: font-family:250 font size 40px}
-	
-		text-align: center;
-		background-color: antiquewhite;
-		color:darkgreen;
-		font-family: arial;
-		
-	}
 		
